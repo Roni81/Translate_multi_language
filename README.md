@@ -1,7 +1,7 @@
 # Translate_multi_language
 > 서울청년소프트웨어 사관학교 용산 캠퍼스</br>
 > LLM 서비스 개발 양성 과정
-## Streamlit을 이용한 Chat-bot 개발
+## Streamlit GUI와 Langchain을 이용한 Chat-bot 개발
 > 다양한 언어를 영작하고 그 언어에 해당하는 단어와 예문을 통해 외국어 학습을 돕는 역할을 하는 챗봇을 개발하고자 하였습니다.</br>
 > OPENAI의 LLM을 이용한 번역기와 방대한 데이터를 이용한 예문을 통해 단어를 이용한 1차원 적인 정보를 넘어 입체적인 외국어 학습 자료로 사용
 
